@@ -1,2 +1,1 @@
-# class26crumpledball
-image function
+# ajay-25-project-template
